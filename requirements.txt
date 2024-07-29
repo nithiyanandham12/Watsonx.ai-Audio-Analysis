@@ -6,3 +6,5 @@ soundfile==0.12.1
 requests==2.31.0
 ibm-watson==6.0.0
 ibm-cloud-sdk-core==3.20.3  # Update this version if necessary
+pip install ibm-cloud-sdk-core==3.20.3
+pip install ibm-watson==6.0.0
