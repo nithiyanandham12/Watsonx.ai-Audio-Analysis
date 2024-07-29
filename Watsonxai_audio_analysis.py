@@ -141,7 +141,7 @@ def get_image_as_base64(image_path):
         return base64.b64encode(img_file.read()).decode()
 
 # Load logo image and encode it as base64
-logo_path = "sba_info_solutions_logo (1).jpg"
+logo_path = "sba.jpg"
 logo_base64 = get_image_as_base64(logo_path)
 
 st.sidebar.markdown(
