@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-librosa
-soundfile
-requests
-ibm-watson
-ibm-cloud-sdk-core
+streamlit==1.37.0
+pandas==2.2.2
+numpy==2.0.1
+librosa==0.10.2.post1
+soundfile==0.12.1
+requests==2.31.0
+ibm-watson==6.0.0
+ibm-cloud-sdk-core==3.20.3  # Update this version if necessary
