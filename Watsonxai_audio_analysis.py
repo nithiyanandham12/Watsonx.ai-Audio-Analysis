@@ -10,8 +10,8 @@ import base64
 import io
 
 # IBM Watsonx.ai text generation API details
-api_key = "ZloBAnZ-ZnlWf7Zk3QEXPu525_5QYqIwir9kqYbyCSpo"
-url = "https://eu-de.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"
+api_key = "xGbVS6biVdVe08qFxLS8jLID9rAyEyQIHX1fIQw2elVO"
+url = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"
 project_id = "c7d5897d-696e-4d75-94d1-1fd1627f905d"
 model_id = "ibm/granite-13b-chat-v2"
 stt_api_key = "FL2nWrD69WEz1J_P9c4Z2IaWXdPUodKvJXyowYoOkbE0"
