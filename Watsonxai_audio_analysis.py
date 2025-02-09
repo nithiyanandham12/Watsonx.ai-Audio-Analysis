@@ -14,7 +14,7 @@ api_key = ""
 url = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"
 project_id = "3d6f1050-fa3f-4017-87d1-767f18a4a7fd"
 model_id = "ibm/granite-13b-chat-v2"
-stt_api_key = "FL2nWrD69WEz1J_P9c4Z2IaWXdPUodKvJXyowYoOkbE0"
+stt_api_key = ""
 stt_url = "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/9c5cbeda-0cad-4f48-a55b-13e57908860c"
 
 def get_access_token(api_key):
